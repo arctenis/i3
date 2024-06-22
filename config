@@ -123,7 +123,7 @@ for_window [all] title_window_icon off
 ## container is the only container on its workspace and the gaps to the screen edge are 0.
 ##
 ## Syntax: hide_edge_borders none|vertical|horizontal|both|smart|smart_no_gaps
-hide_edge_borders none
+hide_edge_borders smart
 
 #------
 
