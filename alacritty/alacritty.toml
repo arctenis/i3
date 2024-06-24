@@ -61,7 +61,8 @@ multiplier = 3
 [bell]
 animation = "Linear"
 duration = 20
-command = { program = "paplay", args = ["/usr/share/sounds/freedesktop/stereo/dialog-error.oga"] }
+## Uncomment the following to enable sound notification.
+#command = { program = "paplay", args = ["/usr/share/sounds/freedesktop/stereo/dialog-error.oga"] }
 
 ## SELECTION ------------------------------------------------------
 [selection]
