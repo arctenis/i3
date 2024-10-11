@@ -50,3 +50,6 @@ xsetroot -cursor_name left_ptr
 
 # Start mpd
 exec mpd &
+
+# Set keyboard layout
+exec setxkbmap fr &
