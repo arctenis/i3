@@ -33,19 +33,19 @@ wdir="$( cd "$( dirname "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )"
 wallpaper="$wdir/wallpaper"
 
 # Polybar
-polybar_font='JetBrains Mono:size=10;3'
+polybar_font='FiraCode Nerd Font :size=10;3'
 
 # Rofi
-rofi_font='Iosevka 10'
+rofi_font='FiraCode Nerd Font 9'
 rofi_icon='Luna'
 
 # Terminal
-terminal_font_name='JetBrainsMono Nerd Font'
+terminal_font_name='FiraCode Nerd Font'
 terminal_font_size='10'
 
 # Geany
 geany_colors='gruvbox.conf'
-geany_font='JetBrains Mono 10'
+geany_font='FiraCode Nerd Font 10'
 
 # Appearance
 gtk_font='Noto Sans 9'
@@ -58,7 +58,7 @@ dunst_width='300'
 dunst_height='80'
 dunst_offset='15x53'
 dunst_origin='top-right'
-dunst_font='JetBrains Mono 10'
+dunst_font='FiraCode Nerd Font 10'
 dunst_border='2'
 dunst_separator='2'
 
@@ -73,7 +73,7 @@ picom_blur_method='none'
 picom_blur_strength='0'
 
 # I3WM
-i3wm_fonts='JetBrainsMono Nerd Font 10'
+i3wm_fonts='FiraCode Nerd Font 10'
 i3wm_border_size='2'
 i3wm_border_style='pixel'
 i3wm_gaps_inner='15'
