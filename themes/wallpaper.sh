@@ -4,7 +4,7 @@
 ##
 ## Apply wallpaper on i3 startup
 
-WALLPAPER='/home/nico/.config/i3/themes/gruvbox/wallpaper'
+WALLPAPER='/home/nico/.config/i3/themes/guetech/wallpaper'
 
 ## For single monitor
 #hsetroot -root -cover "$WALLPAPER"

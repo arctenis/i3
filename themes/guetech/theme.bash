@@ -1,9 +1,4 @@
-# ------------------------------------------------------------------------------
-# Copyright (C) 2020-2024 Aditya Shakya <adi1090x@gmail.com>
-#
-# Gruvbox Theme
-# ------------------------------------------------------------------------------
-
+# Based on Archcraft - GUETech theme by @arctenis
 # Colors
 background='#282828'
 foreground='#ebdbb2'
